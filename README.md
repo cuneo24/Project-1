@@ -1,6 +1,6 @@
 # Project 1
 + By: Michael Cuneo
-+ Production URL: <http://p1.yourdomain.com>
++ Production URL: <http://p1.cuneocourse.com>
 
 ## Outside resources
 N/A
